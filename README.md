@@ -1,1 +1,1 @@
-This is practice session for using git and understanding best practices of git.
+This is practice session for using git and understanding best practices of git. Let's begin!
